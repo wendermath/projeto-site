@@ -7,6 +7,10 @@ body {
     background-color: rgb(141, 94, 216)violet;
 }
 
+img.lado {
+    float: right;
+}
+
 main {
     background-color: white;
     width: 500px;
